@@ -1,3 +1,4 @@
+YAML
 name: My First Pipeline
 on
 push
